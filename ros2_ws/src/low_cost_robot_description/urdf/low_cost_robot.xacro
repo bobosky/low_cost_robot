@@ -4,7 +4,7 @@
 <xacro:include filename="$(find low_cost_robot_description)/urdf/materials.xacro" />
 <!-- <xacro:include filename="$(find low_cost_robot_description)/urdf/low_cost_robot.trans" /> -->
 <!-- <xacro:include filename="$(find low_cost_robot_description)/urdf/low_cost_robot.gazebo" /> -->
-<xacro:include filename="$(find low_cost_robot_description)/urdf/ros2_control.xacro" />
+<!-- <xacro:include filename="$(find low_cost_robot_description)/urdf/ros2_control.xacro" /> -->
 <link name="base_link">
   <inertial>
     <origin xyz="-0.00017023202404845418 -0.021341439639662032 0.014423161616418092" rpy="0 0 0"/>
